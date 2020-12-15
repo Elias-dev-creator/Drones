@@ -30,3 +30,26 @@ html,body{
     display: inline-block;
 }
 
+p  { 
+    font-size : 25px;
+}
+
+.titrehistoire {
+    text-align: center;
+    text-decoration : underline;
+}
+
+.parahistoire {
+    text-align : center;
+
+}
+
+.image1histoire {
+    text-align: center;
+    size
+}
+
+.parasousimage1histoire {
+    text-align : center;
+    font-size: 15px;
+}
